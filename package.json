@@ -1,0 +1,36 @@
+{
+  "name": "syntesys-cli",
+  "version": "1.0.0",
+  "description": "console development for syntesys's softwares",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voidp34r/syntesys-cli.git"
+  },
+  "keywords": [
+    "syntesys",
+    "flutter",
+    "react",
+    "angular",
+    "firebase",
+    "cloud",
+    "ia",
+    "deep",
+    "machine",
+    "learning"
+  ],
+  "author": "voidp34r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voidp34r/syntesys-cli/issues"
+  },
+  "homepage": "https://github.com/voidp34r/syntesys-cli#readme",
+  "devDependencies": {
+    "typedoc": "^0.11.1",
+    "yarn": "^1.6.0"
+  }
+}
